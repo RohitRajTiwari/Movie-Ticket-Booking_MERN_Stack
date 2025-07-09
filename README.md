@@ -1,5 +1,5 @@
 
-𝗖𝗥𝗔𝗙𝗧𝗘𝗗 𝗪𝗜𝗧𝗛 ☕ 𝗕𝗬 𝑹𝑶𝑯𝑰𝑻 𝑹𝑨𝑱 𝑻𝑰𝑾𝑨𝑹𝑰
+𝗖𝗥𝗔𝗙𝗧𝗘𝗗  𝗕𝗬 𝑹𝑶𝑯𝑰𝑻 𝑹𝑨𝑱 𝑻𝑰𝑾𝑨𝑹𝑰
 
 # QUICKSHOW 🎬🍿🎥
 
@@ -20,8 +20,7 @@
 
 <br />
 
-##     🎦 LIVE - DEMO 🌐
-
+##  🎦 LIVE - DEMO 🌐
 **UI** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/)
 
 ![alt text](screencapture-quickshow-sigma-roan-vercel-app-2025-07-04-07_02_38.png)
